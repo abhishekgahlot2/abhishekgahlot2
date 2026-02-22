@@ -1,6 +1,6 @@
 ### hey, i'm abhishek
 
-building things at [@zenskar](https://github.com/zenskar) — AI agents, analytics, infra, data systems.
+building things in AI agents, analytics, infra, data systems.
 
 previously worked on LLMs, RLHF, small models, and a lot of data pipelines.
 
