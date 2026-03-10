@@ -13,8 +13,7 @@ previously worked on LLMs, RLHF, small models, and a lot of data pipelines.
 
 #### currently working on
 
- — multi-agent team orchestration in Rust for OpenAI's Codex CLI.
-- **Multi-agent collaborative workspace** — humans and AI agents in shared rooms, real-time collaboration
+- **Multi-agent collaborative workspace**
 - **LLM research** — process reward models, test-time compute scaling, and code agents for SWE-bench
 
 #### some things i built
