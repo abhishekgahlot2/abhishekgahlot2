@@ -14,7 +14,7 @@ previously worked on LLMs, RLHF, small models, and a lot of data pipelines.
 #### currently working on
 
 - **RL environments** — [DeepGym](https://github.com/DeepGym/deepgym): gyms where agents learn on real software, with rewards you can trust
-- **Inference** — fast local LLMs on Apple Silicon: Metal kernels and speculative decoding ([fastkernel](https://github.com/loopai-hq/fastkernel))
+- **Inference** — Fastest local LLMs on Apple Silicon: Metal kernels and speculative decoding ([Pulsar](https://github.com/loopai-hq/Pulsar))
 - **Agent harnesses & multi-agent systems** — agents that plan, use tools and work together
 - **LLM research** — process reward models, test-time compute scaling, and code agents for SWE-bench
 
